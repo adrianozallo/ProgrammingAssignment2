@@ -1,0 +1,250 @@
+(76/22)*17
+(76/22)*17 +526-486
+(76/22)*19
+(76/22)*19+410
+(76/22)*27+410
+76/22*7 +410
+76/22*22 +410
+76/22*19 +410
+76/22*27 +410
+486*526/434
+486*526/434 -486
+103/589
+(526-434)/434
+92/589
+(526-434)/434
+486*526/434
+486*526/434 -486
+(486*526/434 -486)/589.023
+(2300/3*10^5)*496
+(2300/(3*10^5))*496
+(2300/(3*10^5))
+(0.08*3*10^5)/71
+(526-434)/434
+x = 486 +()(526-434)/434)*486
+x = 486 +((526-434)/434)*486
+x
+x = 486 +((526-434)/434)*486 -486
+x
+x = 486 +((526-434)/434)*486
+x
+x2 = (589.023 -486)/486
+x2
+x2 = (103)/486
+x2
+1.12697*4*pi*(5.4233)^2*
+)
+1.12697*4*pi*(5.4233)^2)
+1.12697*4*pi*(5.4233^2)
+1.12697*4*pi*(2.3^2)
+4.5*4*pi*(2.3^2)
+2.99/6
+anno = 365*24*3600
+anno
+6*3.1536/9
+1.5*2.95
+71*1.1*1000
+x = 656.3*0.296
+x
+x = 1.40436*4*pi*3.4^2
+x
+32*3/(49*50*51*52)
+1/5525
+(1/5525)*10^5
+32*3*48/(49*50*51*52)
+24/(50*51*52)
+1/5525
+1/6^4
+5^4/6^4
+1-5^4/6^4
+library(datasets)
+data(iris)
+?iris
+summary(iris)
+iris
+mean(Sepal.Lenght)
+mean(SepallLenght)
+mean(Sepal.Length)
+head(iris)
+summary(iris)
+mean(iris$Sepal.length,species = virginica)
+mean(iris$Sepal.length)
+mean(iris$Sepal.length,is.NA=FALSE)
+mean(iris$Sepal.length,is.NA=TRUE)
+a <- irisi$Sepal.length, species =virginica
+a <- iris$Sepal.length, species =virginica
+a <- iris$(Sepal.length, species =virginica)
+a <- iris$Sepal.length
+a
+head iris
+head(iris)
+a <- iris$Species
+a
+a <- iris$(Sepal.Length,Species)
+a <- iris$(Sepal.Length)
+a <- iris$Sepal.Length
+a
+a <- iris$Sepal.Length[101:150]
+a
+a <- iris$Sepal.Length[101:150]
+mean(a)
+b <- colMeans(iris)
+apply(iris[,1:4],mean)
+apply(iris[,1:4],1,mean)
+apply(iris[,1:4],2,mean)
+summary(iris)
+data(mtcars)
+?mtcars
+b <- mean(mtcars$mpg,mtcars$cyl)
+sapply( mtcars, cyl,mean)
+tapply(mtcars$mpg,mtcars$cyl,mean)
+summary(mtcars)
+head(mtcars)
+?tapply
+tapply(mtcars$mpg,mtcars$cyl,mean)
+tapply(mtcars$cyl,mtcars$mpg,mean)
+mtcars
+sapply(mtcars,cyl,mean)
+sapply(mtcars$mpg,mtcars$cyl,mean)
+summary(mtcars)
+sapply(mtcars$mpg,mtcars$cyl,mean)
+tapply(mtcars$hp,mtcars$cyl,mean)
+a <- tapply(mtcars$hp,mtcars$cyl,mean)
+a
+a[1] -a[3]
+debug(ls)
+ls
+ls()
+quit
+exit
+help()
+?debug
+debug(ls)
+mean(1:10)
+ls
+ls()
+debug
+c
+iris
+a <- tapply(iris$Sepal.Length,iris$Species,mean)
+a
+?apply
+apply
+apply()
+?apply
+?tapply
+quit
+c
+q
+quit()
+exit
+exit()
+s
+getwd()
+dir()
+outcome <-read.csv("outcome-of-care-measures.csv",colClasses="character")
+names(outcome)
+dim(outcome)
+outcome[1,23] <- as.numeric(outcome[,23])
+hist(outcome[,23])
+outcome[,23] <- as.numeric(outcome[,23])
+hist(outcome[,23])
+source("best.R")
+best("MD","pneumonia")
+best("TX","heart failure")
+dir()
+source("submitscript3.R")
+best("MD","pneumonia")
+best("NY","pneumonia")
+best("AL","pneumonia")
+best("AK","pneumonia")
+best("TX","pneumonia")
+best("NY","pneumonia")
+source("submitscript3.R")
+submit()
+dir()
+source("assignement2.R")
+a <- makeVector(c(1,2,3,4))
+a$get()
+a$getmean()
+cachemean(a)
+a$getmean()
+cachemean(a)
+a$set(c(10,20,30,40))
+a$getmean()
+cachemean(a)
+a$get()
+a$setmean(0)
+a$getmean()
+a$get()
+bV <- makeVector(1:10)   # now we have an object bV
+bV
+cachemean(bV)
+cachemean(bV)
+bV$set(50:60)
+chachemean(bV)
+cachemean(bV)
+cachemean(bV)
+bV$get()
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow=2,ncol=2)
+matrix1 <- makematrix(c(4,3,3,2),nrow = 2,ncol = 2)
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow = 2,ncol = 2)
+dir()
+ls()
+source("assignement2.R")
+set seed(77)
+set.seed(77)
+m <- makematrix(sample.int(100,size=9,replace=TRUE),nrow=3)
+source("assignement2.R")
+m <- makematrix(sample.int(100,size=9,replace=TRUE),nrow=3)
+matrix1 <- makematrix(c(4,3,3,2),nrow = 2,ncol = 2)
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow = 2,ncol = 2)
+m1 <- (c(4,3,3,2),nrow=2,ncol=2)
+m1 <- matrix(c(4,3,3,2),nrow=2,ncol=2)
+m1
+invm1 <- solve(m1)
+invm1
+matrix1 <- makematrix(c(4,3,3,2))
+matrix1
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2))
+matrix1
+matrix1()
+matrix2 <- makematrix(c(1,3,2,4))
+data <- cachesolve(matrix1)
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow=2)
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow=2,ncol=2)
+matrix1 <- makematrix(c(4,3,3,2),nrow=2)
+source("assignement2.R")
+matrix1 <- makevector(c(4,3,3,2))
+matrix1 <- makeVector(c(4,3,3,2))
+matrix1
+matrix1()
+matrix1$get
+a <- makeVector(c(4,3,3,2))
+a$get()
+source("assignement2.R")
+matrix1 <- makematrix(c(4,3,3,2),nrow=2)
+matrix1 <- makematrix(matrix(c(4,3,3,2),nrow=2,ncol=2))
+matrix1$get()
+cachesolve(matrix1)
+solve(matrix1$get)
+matrix1 <- makematrix(matrix(c(1,2,3,4),nrow=2,ncol=2))
+matrix1$get()
+cachesolve(matrix1)
+matrix1$getinverse()
+matrix1$set(matrix(c(0,5,99,66),nrow=2,ncol=2))
+cachesolve(matrix1)
+matrix1$get()
+matrix1$getinverse()
+getwd()
+source("cachematrix.R")
+matrix1 <- makeCacheMatrix(matrix(c(1,2,3,4),nrow=2,ncol=2))
+cacheSolve(matrix1)
+matrix1$getinverse()
+matrix1$get()
